@@ -1,0 +1,25 @@
+✅ Usage Instructions for FunnelHouseBot
+
+1. Requirements:
+- Python 3.7 or higher
+- Install Pyrogram: pip install pyrogram tgcrypto
+
+2. Set Up:
+- Replace `API_ID`, `API_HASH`, and `BOT_TOKEN` with your own credentials.
+- Customize the CUSTOM_CAPTION value as needed.
+- Define your own USERBOT_CHANNEL_MAPPING and BOT_CHANNEL_MAPPING in the script.
+
+3. Run the Bot:
+- Open terminal in the bot directory.
+- Run the bot with:
+    python3 main.py
+
+4. Logs:
+- All actions (success and error) will be saved in log.txt with timestamps.
+
+5. Important Notes:
+- Make sure the bot is a member of the target channels.
+- Userbot must be added to source channels as a member or admin.
+- For userbot session, ensure you're already logged in or generate a session string.
+
+📌 Tip: Use `tmux` or `screen` to keep the bot running 24/7 on VPS.

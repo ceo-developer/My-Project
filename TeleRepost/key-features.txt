@@ -1,0 +1,27 @@
+🔁 Multi-Channel Auto Forwarding
+- Forwards content from multiple source channels to respective mapped target channels.
+
+📂 Dual Client Architecture
+- Uses both Userbot and Bot clients to handle Telegram's forwarding limits.
+
+✂️ Smart Caption Cleaner
+- Removes Telegram usernames, t.me links.
+- Replaces @mentions with "@hiden_25".
+- Appends a custom caption footer.
+
+🧠 Message Type Detection
+- Supports text, photos, videos, and documents.
+- Ensures clean and rich forwarding.
+
+📝 Logging System
+- Logs every forwarding attempt with status and timestamp.
+- Stores logs in log.txt file.
+
+⚡ Real-Time Processing
+- Works as soon as a new message is received in monitored channels.
+
+🔐 Custom Mapping System
+- Source → Target mappings are handled via Python dictionaries.
+
+📤 Clean & Consistent Sharing
+- All forwarded content is normalized for a unified experience.

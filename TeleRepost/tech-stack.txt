@@ -1,0 +1,22 @@
+🐍 Programming Language:
+- Python 3.x
+
+📦 Core Libraries:
+- Pyrogram: For both bot and userbot Telegram interactions
+- re: For regular expression-based text cleanup
+- datetime: For timestamp generation
+- threading (optional): For future concurrency improvements
+- file I/O: For log persistence
+
+🔧 Execution Environment:
+- Can run on any Python-compatible VPS or local machine
+- Requires Telegram API credentials
+
+💬 Bot API Token:
+- Used for interacting as a Telegram Bot (Bot Client)
+
+📱 User Session:
+- Stores user session locally (userbot session string or session file)
+
+🗃 Logging:
+- log.txt file for recording all forwarding attempts and errors

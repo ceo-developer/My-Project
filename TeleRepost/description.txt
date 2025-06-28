@@ -1,0 +1,11 @@
+This Telegram bot is an auto-forwarding solution built using Pyrogram. It monitors multiple source channels and forwards their messages to predefined target channels with cleaned captions and custom tagging.
+
+It supports two types of clients:
+1. Userbot – For forwarding as a normal Telegram user.
+2. Bot – For forwarding via Telegram Bot API.
+
+Each message is logged with detailed success/error tracking, and multiple message types (text, photos, videos, documents) are supported with proper formatting.
+
+Use case: Centralizing posts from many source channels into organized target channels for a brand, group, or public feed.
+
+Bot Name: FunnelHouseBot
