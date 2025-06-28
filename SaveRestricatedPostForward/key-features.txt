@@ -1,0 +1,7 @@
+1. Bypass Restrictions: Automatically removes restrictions from forwarded Telegram messages.
+2. User Roles: Supports both regular users and privileged users.
+3. Ban System: Maintains a list of banned users.
+4. Broadcasting: Admins can send messages to all users.
+5. Session Handler: Manages multiple session strings for seamless bot operation.
+6. Logging: Maintains a log of user actions for admin review.
+7. Custom Start Messages: Personalized welcome/start interaction using a dedicated handler.

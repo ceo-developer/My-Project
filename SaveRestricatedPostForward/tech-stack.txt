@@ -1,0 +1,5 @@
+- Python 3
+- Pyrogram (Telegram MTProto API Framework)
+- TgCrypto (optimized cryptographic operations)
+- Heroku (for deployment, based on Procfile presence)
+- JSON (for ban list and user data storage)

@@ -1,0 +1,18 @@
+1. Start the Bot:
+   - Deploy the bot on Heroku or a VPS.
+   - Set your API_ID, API_HASH, BOT_TOKEN in `config.py`.
+
+2. Bot Commands (User):
+   - Send any restricted message to the bot.
+   - Bot returns a version without restrictions.
+
+3. Bot Commands (Privileged):
+   - /broadcast <text>: Sends message to all users.
+   - /ban <user_id>: Bans a user from using the bot.
+   - /unban <user_id>: Removes a user from the ban list.
+
+4. Session Handling:
+   - Multiple client sessions can be used to avoid Telegram limits.
+
+5. Logs:
+   - User actions and messages are logged in `user_logs/`.

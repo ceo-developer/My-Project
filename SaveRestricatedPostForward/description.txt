@@ -1,0 +1,1 @@
+SaveRestricted8 Bot is a Telegram bot designed to bypass content restrictions on Telegram messages, such as those preventing forwarding or saving. It supports multiple user roles and includes admin features like banning, broadcasting, and session management.
