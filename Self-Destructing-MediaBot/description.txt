@@ -1,0 +1,3 @@
+This Telegram bot allows users to start a Telethon session using their string session, and automatically listens for self-destruct (TTL) media in incoming messages. It saves such media to the user's "Saved Messages" for backup purposes.
+
+The bot supports multi-user sessions, admin-only broadcasting, session export, and provides helpful commands to users. It's ideal for archiving disappearing content from secret chats.

@@ -1,0 +1,8 @@
+Key Features:
+- 🧩 Start Telethon session using a string
+- 📥 Auto-save self-destruct media (photos, documents)
+- 📊 View number of active user sessions
+- 📢 Admin-only broadcast to all users
+- 🗃️ Export all user sessions as JSON
+- 📌 Organized command structure for users and admin
+- 🔘 Inline keyboard on /start for quick access

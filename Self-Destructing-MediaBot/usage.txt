@@ -1,0 +1,9 @@
+How to Use:
+
+1. Start the bot: Send `/start` to get a welcome message.
+2. Use `/session <your_string>` to start a Telethon session.
+   - It will begin listening to your messages and auto-save self-destruct media.
+3. Use `/status` to check active sessions (for all users).
+4. Use `/help` to view all available commands.
+
+💡 You need a valid Telethon string session to use this bot.

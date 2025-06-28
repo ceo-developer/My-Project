@@ -1,0 +1,8 @@
+Tech Stack Used:
+
+1. **Python 3.13**
+2. **python-telegram-bot v20+** - For the Telegram bot interface
+3. **Telethon** - For managing Telegram user sessions
+4. **asyncio** - For asynchronous client management
+5. **JSON & OS** - For session storage and file handling
+6. **InlineKeyboardMarkup** - For improved bot interface
