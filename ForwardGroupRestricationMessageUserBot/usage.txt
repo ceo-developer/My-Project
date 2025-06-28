@@ -1,0 +1,26 @@
+📦 How to Use ForwardIntelBot:
+
+1️⃣ Update your API_ID, API_HASH, and SESSION_STRING in the main script.
+2️⃣ Place `config.json` next to the script or run bot and use /set_owner first.
+3️⃣ Run the bot:
+    $ python3 bot.py
+
+🧠 Command Reference:
+
+/set_owner               → Set yourself as bot owner
+/add_source <id>         → Add a source channel/group
+/remove_source <id>      → Remove a source
+/list_sources            → Show all source IDs
+
+/add_target <id>         → Add a target group/channel
+/remove_target <id>      → Remove a target
+/list_targets            → List all target destinations
+
+/add_keyword <word>      → Add keyword for filtering
+/remove_keyword <word>   → Remove keyword from filter list
+
+/enable                  → Start forwarding system
+/disable                 → Stop forwarding
+/stats                   → See total forwarded messages
+/test                    → Check bot is alive
+/help                    → Show this help menu

@@ -1,0 +1,1 @@
+ForwardIntelBot is a Pyrogram-based Telegram UserBot that automatically forwards messages from selected source groups/channels to target groups, based on keyword filtering and full owner control.

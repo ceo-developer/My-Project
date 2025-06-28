@@ -1,0 +1,11 @@
+🔐 Owner-only Command Access
+📥 Add/Remove Multiple Source Channels
+📤 Add/Remove Multiple Target Channels
+🔎 Keyword-Based Message Filtering
+⚙️ Enable/Disable Bot Forwarding
+📦 Media + Text Support
+👤 Message Attribution with Sender Name
+📈 Real-Time Stats (Total Forwarded)
+💾 Persistent Config (JSON-based)
+🛠️ Easy Testing via /test
+📖 Full Command Help via /help
