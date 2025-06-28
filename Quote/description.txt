@@ -1,0 +1,1 @@
+This Telegram bot sends inspirational Hindi quotes, tracks group activity through leaderboards, and enables interactive features like reactions and welcome messages. It supports quote scheduling, image-based quotes, profile tracking, and custom settings per group.

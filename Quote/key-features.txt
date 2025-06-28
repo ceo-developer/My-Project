@@ -1,0 +1,10 @@
+1. Inspirational Hindi Quotes: Get motivational messages on demand.
+2. Quote Reactions: Users can react with emojis like 👍❤️😂😮👎.
+3. Quote Images: Beautiful quote cards with Hindi/English font rendering.
+4. Leaderboards: Daily, weekly, and all-time message rankings.
+5. User Profiles: Personal stats like join date, reactions, and quote requests.
+6. Quote Scheduling: Admins can set automated quote intervals.
+7. MongoDB Integration: Persistent storage of settings, stats, and counts.
+8. Welcome Messages: Custom welcome messages for new members.
+9. Dual Bot Engine: Uses both Pyrogram and Telebot frameworks.
+10. Command Handling: Rich set of commands for both users and admins.

@@ -1,0 +1,8 @@
+- Python 3
+- Pyrogram: For handling advanced Telegram API interactions.
+- Telebot (pyTelegramBotAPI): For message-based command handling.
+- MongoDB: Database for persistent storage of bot data.
+- Pillow: For dynamic quote image generation.
+- aiohttp: Async HTTP requests for fetching quotes.
+- dotenv: Securely load credentials from .env file.
+- logging: Tracks all bot activities into logs.

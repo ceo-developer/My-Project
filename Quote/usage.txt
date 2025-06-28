@@ -1,0 +1,27 @@
+1. Deployment:
+   - Set up `.env` with BOT_TOKEN, API_ID, API_HASH, BOT_OWNER_ID, and MONGO_URI.
+   - Run `python ak.py` to start the bot.
+
+2. User Commands:
+   - /start: Show bot intro and menu.
+   - /help: Detailed command guide.
+   - /quotes: Get today's Hindi quote (image or text).
+   - /mystats: Show personal usage stats.
+   - /profile: See user profile (reactions, join date, etc.).
+   - /pollquote: Vote between two quotes.
+   - /totalquotes: View quote usage stats across groups.
+
+3. Admin Commands:
+   - /settype text|img: Toggle quote format.
+   - /setquotetime: Interactive quote interval setup.
+   - /setwelcome <msg>: Define group welcome message.
+   - /leaderboard: Show top message senders.
+
+4. Owner Command:
+   - /reboot: Restart the bot (owner only).
+
+5. Reaction System:
+   - Inline buttons for users to react on quotes.
+
+6. Scheduled Quotes:
+   - Auto-post quotes in subscribed groups at custom intervals.
