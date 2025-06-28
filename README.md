@@ -59,3 +59,5 @@ Ideal For: News sharing, multi-channel management.
 Purpose: Creates styled image-based Telegram quote cards from selected messages or custom text.  
 Tools Used: PIL, Fonts, Pyrogram  
 Includes: Screenshot demos.
+
+7. And More bots Priject I Hava......
